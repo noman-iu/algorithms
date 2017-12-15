@@ -1,4 +1,4 @@
-package com.akhtar.sorting;
+package com.akhtar.utils;
 
 /**
  * @author akhtar
@@ -12,7 +12,7 @@ public class Utils {
 		array[second] = temp;
 	}
 	
-	public static void print(int array[]) {
+	public static void printArray(int array[]) {
 		int count = 0;
 		for (int i : array) {
 			System.out.print(i);
