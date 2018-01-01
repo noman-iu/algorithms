@@ -1,4 +1,4 @@
-package coml.akhtar.matrix;
+package com.akhtar.matrix;
 
 import java.util.Scanner;
 
